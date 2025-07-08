@@ -1,0 +1,10 @@
+path: data
+train: raw
+val: raw
+test: raw
+
+names:
+  0: bubble
+#This YAML file tells YOLOv8
+#where your training/validation/test images live and
+#what class(es) to detect.
