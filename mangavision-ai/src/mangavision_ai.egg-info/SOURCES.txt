@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+setup.cfg
+src/mangavision_ai.egg-info/PKG-INFO
+src/mangavision_ai.egg-info/SOURCES.txt
+src/mangavision_ai.egg-info/dependency_links.txt
+src/mangavision_ai.egg-info/top_level.txt
+tests/test_utils.py

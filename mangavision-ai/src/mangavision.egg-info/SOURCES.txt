@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/mangavision/__init__.py
+src/mangavision/detect.py
+src/mangavision/ocr.py
+src/mangavision/pipeline.py
+src/mangavision/utils.py
+src/mangavision.egg-info/PKG-INFO
+src/mangavision.egg-info/SOURCES.txt
+src/mangavision.egg-info/dependency_links.txt
+src/mangavision.egg-info/top_level.txt
+tests/test_utils.py
